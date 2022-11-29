@@ -7,7 +7,7 @@ a la vanguardia que generen valor agregado.
 
 ### Te presentamos nuestro equipo de Trabajo:
 
-**Josafat Fornace Coxca**: tengo 29 años, soy de la ciudad de Teziutlanm, Puebla en Mexico, ingeniero en computacion del instituto politecnico nacional
+**Josafat Fornace Coxca**: tengo 29 años, soy de la ciudad de Teziutlan, Puebla en Mexico, ingeniero en computacion del instituto politecnico nacional, me gustan los videojuegos y estoy aprendiendo web dev para crecer mi portafolio de empleos
 
 **William Ramírez** : vivo en Medellín
 
@@ -20,3 +20,5 @@ Para dar inicio al desarrollo de nuestro proyecto integrador, visitamos diversas
 
 - https://www.decathlon.com.co/, sus componentes son sencillos pero cumplen el objetivo, la estructura es 
 eficiente en cuanto al diseño y filtrado de la información. 
+
+-https://bikestore.com.mx/ esta pagina va directo a las categorías de bicicletas disponibles y una barra con los diferentes tipos de productos, posee una sección de las más destacadas en la parte inferior de la página, la configuración del banner esta fijada a la navegación de la página.
