@@ -15,6 +15,8 @@ a la vanguardia que generen valor agregado.
 
 **Alejandra Santisteban**: Soy de Bogota Colombia.
 
+**Gener Góez**: Soy Gener, de Medellín Colombia. 
+
 ### Sitios de Referencia:
 Para dar inicio al desarrollo de nuestro proyecto integrador, visitamos diversas páginas web con una tematica similar con el fin de observar y tomar como referencia algunos componentes y caracteristicas que podremos adoptar para nuestro e-commerce:
 
@@ -22,3 +24,4 @@ Para dar inicio al desarrollo de nuestro proyecto integrador, visitamos diversas
 eficiente en cuanto al diseño y filtrado de la información. 
 
 - https://bikestore.com.mx/ esta pagina va directo a las categorías de bicicletas disponibles y una barra con los diferentes tipos de productos, posee una sección de las más destacadas en la parte inferior de la página, la configuración del banner esta fijada a la navegación de la página.
+
