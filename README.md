@@ -15,6 +15,8 @@ a la vanguardia que generen valor agregado.
 
 **Alejandra Santisteban**: Soy de Bogota Colombia.
 
+**Gener Góez**: Soy Gener, de Medellín Colombia. 
+
 ### Sitios de Referencia:
 Para dar inicio al desarrollo de nuestro proyecto integrador, visitamos diversas páginas web con una tematica similar con el fin de observar y tomar como referencia algunos componentes y caracteristicas que podremos adoptar para nuestro e-commerce:
 
