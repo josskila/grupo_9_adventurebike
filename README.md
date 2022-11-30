@@ -9,7 +9,7 @@ a la vanguardia que generen valor agregado.
 
 **Josafat Fornace Coxca**: tengo 29 años, soy de la ciudad de Teziutlan, Puebla en Mexico, ingeniero en computacion del instituto politecnico nacional, me gustan los videojuegos y estoy aprendiendo web dev para crecer mi portafolio de empleos
 
-**William Ramírez** : vivo en Medellín
+**William Ramírez** : Tengo 42 años, vivo en la ciudad de Medellín (Colombia). Me gusta practicar el ciclismo y el running, aunque todo lo que sea actividad física me llama la atención. La tecnología es otro mundo que me gusta mucho en el cual estoy tratando de incursionar y aprender. Tengo mucha expectativa de aprendizaje en este proyecto y de igual manera ayudar para sacar adelante este trabajo de equipo.
 
 **Daniel Arroyave Restrepo**: Hola es un placer hacer parte de este equipo, actualmente tengo 29 años de edad, vivo en la ciudad de Bello, ubicada en el Departamento de Antioquia, Colombia, me he desempañdo a lo largo de algunos años como Administrador de Empresas en el sector privado, con este proyecto espero poder adquirir nuevos conocimientos y poner en práctica los conceptos ya asimilados. 
 
