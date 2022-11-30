@@ -15,7 +15,7 @@ a la vanguardia que generen valor agregado.
 
 **Alejandra Santisteban**: Soy de Bogota Colombia.
 
-**Gener Góez**: Soy Gener, de Medellín Colombia. 
+**Gener Góez**: Soy Gener, tengo 29 años y  soy de Medellín, Colombia. Soy administrador de profesión. Trabajo en una empresa de servicios de consultoría, en el área de cuentas por pagar. Incursionando en todo el tema de la programación con el curso de Digital.
 
 ### Sitios de Referencia:
 Para dar inicio al desarrollo de nuestro proyecto integrador, visitamos diversas páginas web con una tematica similar con el fin de observar y tomar como referencia algunos componentes y caracteristicas que podremos adoptar para nuestro e-commerce:
