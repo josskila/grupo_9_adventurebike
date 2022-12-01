@@ -29,4 +29,4 @@ eficiente en cuanto al diseño y filtrado de la información.
 
 - https://mundobike.com.ar/ Tiene diseño sobrio, la manera en que están distribuidas las categorías. Tiene unos banners como de tips sobre el uso de bicis y que aparte tiene una opción de chat en línea para resolver inquietudes antes de la compra.
 
-https://www.specialized.com/ Una página limpia, no saturada; pero de entrada muestra productos variados en promoción. Muy bien definidas las categorías de todos los productos. Las imágenes de naturaleza motivan e incitan a practicar el ciclismo.
+- https://www.specialized.com/ Una página limpia, no saturada; pero de entrada muestra productos variados en promoción. Muy bien definidas las categorías de todos los productos. Las imágenes de naturaleza motivan e incitan a practicar el ciclismo.
