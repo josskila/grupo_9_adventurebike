@@ -28,3 +28,5 @@ eficiente en cuanto al diseño y filtrado de la información.
 - https://bikestore.com.mx/ esta pagina va directo a las categorías de bicicletas disponibles y una barra con los diferentes tipos de productos, posee una sección de las más destacadas en la parte inferior de la página, la configuración del banner esta fijada a la navegación de la página.
 
 - https://mundobike.com.ar/ Tiene diseño sobrio, la manera en que están distribuidas las categorías. Tiene unos banners como de tips sobre el uso de bicis y que aparte tiene una opción de chat en línea para resolver inquietudes antes de la compra.
+
+https://www.specialized.com/ Una página limpia, no saturada; pero de entrada muestra productos variados en promoción. Muy bien definidas las categorías de todos los productos. Las imágenes de naturaleza motivan e incitan a practicar el ciclismo.
