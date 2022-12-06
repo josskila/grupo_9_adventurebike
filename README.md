@@ -1,8 +1,8 @@
 ## Descripcion del Ecommerce
-**AdventureBike** es una empresa que expresa su misión brindando a sus clientes diferentes alternativas para la compra de bicicletas y accesorios deportivos, teniendo siempre presente la mejor calidad y precio. 
+**AdventureBike** es una empresa que expresa su misión brindando a sus clientes diferentes alternativas para la compra de bicicletas y accesorios deportivos, teniendo siempre presente la mejor atención, calidad y precio. 
 
 ## Público Objetivo
-**AdventureBike** quiere brindar una experiencia cálidad y de completa satisfacción a todo sus clientes, nuestro nicho de mercado se centra en los adultos entre los 25 y 49 años de edad, con modelos y estructuras 
+**AdventureBike** quiere brindar una experiencia cálida y de completa satisfacción a todos sus clientes, nuestro nicho de mercado se centra en los adultos entre los 25 y 49 años de edad, con modelos y estructuras 
 a la vanguardia que generen valor agregado.
 
 ### Te presentamos nuestro equipo de Trabajo:
