@@ -13,7 +13,7 @@ a la vanguardia que generen valor agregado.
 
 **Daniel Arroyave Restrepo**: Hola es un placer hacer parte de este equipo, actualmente tengo 29 años de edad, vivo en la ciudad de Bello, ubicada en el Departamento de Antioquia, Colombia, me he desempañdo a lo largo de algunos años como Administrador de Empresas en el sector privado, con este proyecto espero poder adquirir nuevos conocimientos y poner en práctica los conceptos ya asimilados. 
 
-**Alejandra Santisteban**: Soy de Bogota Colombia.
+**Alejandra Santisteban**: Hola! soy Alejandra, de Bogotá Colombia. Diseñadora industrial, soy nueva en el mundo de la programación y espero aprender, mejorar y construir un buen proyecto con mis compañeros. 
 
 **Gener Góez**: Soy Gener, tengo 29 años y  soy de Medellín, Colombia. Soy administrador de profesión. Trabajo en una empresa de servicios de consultoría, en el área de cuentas por pagar. Incursionando en todo el tema de la programación con el curso de Digital.
 
@@ -30,3 +30,5 @@ eficiente en cuanto al diseño y filtrado de la información.
 - https://mundobike.com.ar/ Tiene diseño sobrio, la manera en que están distribuidas las categorías. Tiene unos banners como de tips sobre el uso de bicis y que aparte tiene una opción de chat en línea para resolver inquietudes antes de la compra.
 
 - https://www.specialized.com/ Una página limpia, no saturada; pero de entrada muestra productos variados en promoción. Muy bien definidas las categorías de todos los productos. Las imágenes de naturaleza motivan e incitan a practicar el ciclismo.
+
+- https://www.gtbicycles.com/ Esta pagina tiene un diseño sencillo pero muy facil de entender, la información es especifica, poca carga visual. De facil navegación para el usuario.
