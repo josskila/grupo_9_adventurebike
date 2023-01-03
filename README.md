@@ -5,6 +5,9 @@
 **AdventureBike** quiere brindar una experiencia cálida y de completa satisfacción a todos sus clientes, nuestro nicho de mercado se centra en los adultos entre los 25 y 49 años de edad, con modelos y estructuras 
 a la vanguardia que generen valor agregado.
 
+### Tablero de Trabajo:
+https://trello.com/b/rYUsy5c4/sprint2
+
 ### Te presentamos nuestro equipo de Trabajo:
 
 **Josafat Fornace Coxca**: tengo 29 años, soy de la ciudad de Teziutlan, Puebla en Mexico, ingeniero en computacion del instituto politecnico nacional, me gustan los videojuegos y estoy aprendiendo web dev para crecer mi portafolio de empleos

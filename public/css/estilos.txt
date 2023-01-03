@@ -1,8 +1,0 @@
-Títulos: {
-    Color: 
-}
-Subtítulos:
-Texto:
-
-
-Clases
